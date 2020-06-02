@@ -1,0 +1,2 @@
+Jim Smith|123 Any Stree|Boston|US|01234
+Jan Lee|248 Another st.|Boston|US|02234
